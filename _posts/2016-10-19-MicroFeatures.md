@@ -9,11 +9,9 @@ end_time: "13:00"
 
 #event organiser details
 
-organiser: "Jimmy Smith"
+organiser: "David Alejandro"
 
 
 ---
 
-Just a quick introduction into AWS.
-
-Please come along if your interested. Pizza will be provided.
+"Microservicios" aplicados a programacion en mobiles
