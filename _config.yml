@@ -13,6 +13,8 @@ event_label: Meetups
 
 # Disqus post comments
 disqus_shortname: channel-medellinios
+# Google services
+google_analytics: UA-81388110-3
 
 description: > # this means to ignore newlines until "baseurl:"
   Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
