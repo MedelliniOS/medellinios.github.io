@@ -6,6 +6,8 @@ title:  "\"Microservicio­s\"😱 (Mi­cro Features 😎) en desarrollo iOS📱"
 date:   2016-10-19
 start_time: "12:00"
 end_time: "13:00"
+comments: true
+id: 'Mi­croFeatures'
 
 #event organiser details
 
