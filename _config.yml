@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Evento Theme/Blog
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -6,14 +6,32 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Medellin iOS Blog
-email: comunidadmedellinios@gmail.com
+title: MedellinIOS
+
+#What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
+event_label: Meetups
+
+# Disqus post comments
+disqus_shortname: medellinios
+
 description: > # this means to ignore newlines until "baseurl:"
-  Blog para informarte de los pasados Meetup de la comunidad Medellin iOS.
+  Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://MedelliniOS.github.io" # the base hostname & protocol for your site
-twitter_username: MedelliniOS
-github_username:  MedelliniOS
+url: "http://medellinios.com" # the base hostname & protocol for your site
+
+#These settings might be able to go?
+author: David Alejandro
+twitter_username: medellinios
+github_username:  medellinios
+company_name: MedellinIOS
 
 # Build settings
 markdown: kramdown
+
+#Have to show future posts for future events.
+future: true
+
+permalink: /event/:title.html
+gems:
+  - jekyll-assets

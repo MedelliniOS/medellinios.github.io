@@ -1,10 +1,20 @@
 ---
 layout: post
+
+#event information
 title:  "A Story about Coordinators"
-date:   2016-06-09 10:24:28 -0500
+date:   2016-06-09
+start_time: "19:00"
+end_time: "20:00"
 categories: meetup
 tags: Coordinators Router
+comments: true
+
+#event organiser details
+organiser: "Ernesto Carrión"
+
 ---
+
 
 <script async class="speakerdeck-embed" data-id="e5407b474feb456cbbab882aece7c84b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
