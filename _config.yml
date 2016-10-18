@@ -37,3 +37,4 @@ future: true
 permalink: /event/:title.html
 gems:
   - jekyll-assets
+  - jekyll-seo-tag

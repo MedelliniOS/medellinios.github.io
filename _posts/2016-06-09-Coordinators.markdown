@@ -9,6 +9,7 @@ end_time: "20:00"
 categories: meetup
 tags: Coordinators Router
 comments: true
+id: 'StoryCoordinators'
 
 #event organiser details
 organiser: "Ernesto Carrión"
